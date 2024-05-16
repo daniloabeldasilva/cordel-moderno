@@ -52,6 +52,9 @@ line-height:2em;
 padding-left: 30px;
 font-family: var(--fonte3);
 font-size: 3.5vw;
+cursor: pointer;
+transform: scale(1.00);
+transition: 2s;
 
 }
 
@@ -62,6 +65,9 @@ section.imagem > p {
   background-color: rgba(0, 0, 0, 0.473);
   text-shadow: 1px 1px 0px rgb(102, 99, 99);
   border-radius: 2%;
+  cursor: pointer;
+  transform: scale(1.00);
+  transition: 2s;
  
   
 }
@@ -76,6 +82,9 @@ section.imagem {
   box-shadow: inset 8px 6px 13px 0px rgb(99, 98, 98);
   background-size: cover;
   background-attachment: fixed;
+  cursor: pointer;
+  transform: scale(1.00);
+  transition: 2s;
 }
 
 section#img01 {
